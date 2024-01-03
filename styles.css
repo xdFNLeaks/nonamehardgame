@@ -1,0 +1,45 @@
+canvas {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #000;
+    transition: filter 0.5s ease;
+}
+
+.paused-text {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color: white;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.resume-button {
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    background-color: #333;
+    padding: 10px 20px;
+}
+
+.social-icons {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.twitter-icon, .github-icon {
+    width: 45px;
+    height: 45px;
+    opacity: 1.0;
+    cursor: pointer;
+}
