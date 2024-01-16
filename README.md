@@ -1,11 +1,13 @@
 # nonamehardgame
 
-Just a quick little game to experiment.
+A brief experimental game.
 
-Only works on PC.
+## Compatibility
+
+- PC only.
 
 ## Controls
 
-`Left/Right Arrow` to move left and/or right.
+Use `Left/Right Arrow` keys to move left and/or right.
 
-`Esc` to pause the game
+Press `Esc` to pause the game.
