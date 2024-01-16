@@ -2,6 +2,10 @@
 
 A brief experimental game.
 
+### [**Play Here!**](https://xdfnleaks.github.io/nonamehardgame/)
+
+---
+
 ## Compatibility
 
 - PC only.
